@@ -111,6 +111,18 @@ OR (recommended):
 uv run jupyter lab
 ```
 
+# Projects for each Module
+
+1. Student Information System
+2. ATM Simulator
+3. School Results Processor
+4. Library Management System (Basic)
+5. Utility Toolkit
+6. Expense Tracker
+7. University Management System
+8. Task Automation Suite
+10. Inventory Management System
+
 Please do message me or email me at kyerematengcollins93@gmail.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
 
 <table style="margin: 0; text-align: left;">
