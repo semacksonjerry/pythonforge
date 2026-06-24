@@ -8,7 +8,8 @@ name = input("Employee Name: ")
 
 salary = input("Enter monthly salary: ")
 
-department = input("Enter department: "
+department = input("Enter department: ")
+
 
 print(f"{name} works in the {department} departmet.")
 print(f"Monthly salary: GHS{salary}")
